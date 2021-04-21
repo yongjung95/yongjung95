@@ -1,5 +1,4 @@
 ## 스펀지 같은 개발자, 이용정입니다.
-
 ## 🙆‍♂️ About Me
 
 - Introduction
