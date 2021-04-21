@@ -10,15 +10,10 @@
     - 저는 맛있는 음식🍖 과 여행✈ , 축구⚽ , 관심이 많습니다.
 - Contact & Channel
     - Email 💌  |  yongjung95@gmail.com
-
-    ---
-
     - Github 💻  |   [https://github.com/yongjung95](https://github.com/yongjung95)
     - Dev-Note 📕  |  [https://github.com/yongjung95/Dev-Note](https://github.com/yongjung95/Dev-Note)
 
 # 🔨 Skills
-
----
 
 - Backend
     - Java
@@ -32,8 +27,6 @@
     - JSP
 
 # 🖥 Careers
-
----
 
 ### 윈드폴
 
@@ -54,8 +47,6 @@
     - [https://pdep.sc.or.kr/](https://pdep.sc.or.kr/)
 
 ## 💻 Projects
-
----
 
 - Food-travel
     - 2021.02 ~ 2021.03
@@ -78,8 +69,6 @@
     - 대학교 졸업 작품으로 우수상을 수상하였습니다.
 
 ## 🎓 Education
-
----
 
 ### 부천대학교
 
