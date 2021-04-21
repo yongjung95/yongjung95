@@ -13,7 +13,7 @@
     - Github 💻  |   [https://github.com/yongjung95](https://github.com/yongjung95)
     - Dev-Note 📕  |  [https://github.com/yongjung95/Dev-Note](https://github.com/yongjung95/Dev-Note)
 
-# 🔨 Skills
+## 🔨 Skills
 
 - Backend
     - Java
@@ -26,7 +26,7 @@
     - JavaScript , HTML
     - JSP
 
-# 🖥 Careers
+## 🖥 Careers
 
 ### 윈드폴
 
