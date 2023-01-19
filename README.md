@@ -13,4 +13,4 @@
     - Email 💌  |  yongjung95@gmail.com
     - Github 💻  |   [https://github.com/yongjung95](https://github.com/yongjung95)
     - Dev-Note 📕  |  [https://github.com/yongjung95/Dev-Note](https://github.com/yongjung95/Dev-Note)
-    - Notify 📣 | [notify](http://notify.n-e.kr)
+    - Notify 📣 | [http://notify.n-e.kr](http://notify.n-e.kr)
