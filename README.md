@@ -15,6 +15,7 @@
 
     `사람 만나고 함께 어울리는 것`을 가장 좋아하는 개발자입니다!
 - Contact & Channel
+    - Resume 🧑‍💻 | [https://www.notion.so/1f8f95ae535d4acabb6e0168b70da4d0](https://www.notion.so/1f8f95ae535d4acabb6e0168b70da4d0)
     - Email 💌  |  yongjung95@gmail.com
     - Phone 📱 | 010-4383-6263
     - Github 💻  |   [https://github.com/yongjung95](https://github.com/yongjung95)
