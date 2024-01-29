@@ -21,4 +21,5 @@
     - Phone 📱 | 010-4383-6263
     - Github 💻  |   [https://github.com/yongjung95](https://github.com/yongjung95)
     - Dev-Note 📕  |  [https://github.com/yongjung95/Dev-Note](https://github.com/yongjung95/Dev-Note)
+    - Study-Note 📒 | [https://jung-eee.tistory.com/](https://jung-eee.tistory.com/)
     - Notify 📣 | [http://notify.n-e.kr](http://notify.n-e.kr/loginForm)
