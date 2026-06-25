@@ -33,4 +33,3 @@
     - Github 💻  |   [https://github.com/yongjung95](https://github.com/yongjung95)
     - Dev-Note 📕  |  [https://github.com/yongjung95/Dev-Note](https://github.com/yongjung95/Dev-Note)
     - Study-Note 📒 | [https://jung-eee.tistory.com/](https://jung-eee.tistory.com/)
-    - New-Notify 📣 | [https://new-notify.n-e.kr/](https://new-notify.n-e.kr/)
